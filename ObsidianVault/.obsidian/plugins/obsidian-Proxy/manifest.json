@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-proxy-plugin",
+	"name": "Jinyi's Proxy Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Providing proxy for obsidian",
+	"author": "jinyi-x",
+	"authorUrl": "https://github.com/jinyi-x",
+	"isDesktopOnly": false
+}
