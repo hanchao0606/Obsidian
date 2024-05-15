@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/RedisCache 交给sping管理.md",
-                "mode": "preview",
+                "file": "book/认知觉醒/认知觉醒.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/RedisCache 交给sping管理.md",
+                "file": "book/认知觉醒/认知觉醒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/RedisCache 交给sping管理.md",
+                "file": "book/认知觉醒/认知觉醒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/RedisCache 交给sping管理.md"
+                "file": "book/认知觉醒/认知觉醒.md"
               }
             }
           }
@@ -155,8 +155,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d99c17ddd6bf98a4",
+  "active": "d0ac53dcb4fa68f8",
   "lastOpenFiles": [
+    "英语/未命名 3.md",
+    "英语/未命名 2.md",
+    "java/RedisCache 交给sping管理.md",
     "java/BeanDefinitionRegistry.md",
     "java/未命名 3.md",
     "java/未命名 1.md",
@@ -174,11 +177,8 @@
     "英语/英语六大基本类型.md",
     "英语/b站听力.md",
     "英语/Media Note - 【雅思】9.0听力高效磨耳朵训练，24小时循环播放，8.0听力轻轻松！.md",
-    "英语/未命名 3.md",
-    "英语/未命名 2.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "java/RedisCache 交给sping管理.md",
     "java/Small-Spring.md",
     "Media Note - 【雅思】9.0听力高效磨耳朵训练，24小时循环播放，8.0听力轻轻松！.md",
     "英语/【雅思】9.0听力高效磨耳朵训练，24小时循环播放，8.0听力轻轻松！DT0S.webp",
