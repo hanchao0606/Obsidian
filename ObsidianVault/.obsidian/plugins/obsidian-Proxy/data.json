@@ -1,8 +1,0 @@
-{
-  "ProxyType": 1,
-  "ProxyAddress": "127.0.0.1",
-  "ProxyPort": 7890,
-  "ProxyUsername": " ",
-  "ProxyPassword": " ",
-  "EnableProxy": true
-}
