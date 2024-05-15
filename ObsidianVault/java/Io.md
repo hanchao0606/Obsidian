@@ -1,0 +1,1 @@
+BufferedReader是一个Closeable，安全的做法是在使用完毕后close，或者利用try-with-resources语法包一层，实现自动close
